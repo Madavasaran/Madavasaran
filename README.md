@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Open CV**
 
-- 💬 Ask me about **
+- 💬 Ask me about 
   <br>
 🔹 Machine Learning & Deep Learning in Traffic Prediction
   <br>
