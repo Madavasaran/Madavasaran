@@ -1,61 +1,305 @@
-![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
+<div align="center">
+  
+# 👋 Hi, I'm **MADAVASARAN M**
+### 🎓 Final Year ECE Student | 🚀 AI & Electronics Enthusiast | 💻 Full-Stack Developer
 
-<h1 align="center">Hi 👋, I'm Madavasaran</h1>
-<h3 align="center">Turning Ideas into Code | Exploring AI & Embedded Systems|From Circuits to Code | Exploring the Digital & Analog World</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Electronics+%26+Communication+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Embedded+Systems+Developer;VLSI+%26+Circuit+Design" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madavasaran-m-842343301)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madavasaran)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madavasaran@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919363561378)
 
-- 🔭 I’m currently working on **YOLO**
+</div>
 
-- 🌱 I’m currently learning **Data Science (Python stream)**
+---
 
-- 👯 I’m looking to collaborate on [Machine learning](https://github.com/Madavasaran/Traffic-prediction-app)
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **Open CV**
+```python
+class MadavasaranM:
+    def __init__(self):
+        self.name = "Madavasaran M"
+        self.role = "Final Year ECE Student"
+        self.university = "Puducherry Technological University"
+        self.cgpa = 9.67
+        self.location = "Puducherry, India"
+        self.interests = ["VLSI", "Embedded Systems", "AI/ML", "Web Development"]
+        self.current_focus = "Deep Learning & Diffusion Models"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
-- 💬 Ask me about 
-  <br>
-🔹 Machine Learning & Deep Learning in Traffic Prediction
-  <br>
-🔹 Flask Web Development
-  <br>
-🔹 Python Programming
-  <br>
-🔹 Data Science & Analytics
-  <br>
-🔹 Electronics & Embedded Systems (LPC2148, Op-Amps, Multivibrators)
-  <br>
-🔹 Circuit Design & Simulation (Multisim)**
-  <br>
-## ![PC Icon](https://img.icons8.com/emoji/48/000000/desktop-computer.png) MY PC SPEC  
-💻 **Processor:** [AMD Ryzen 5 5600X](https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html)  
-🎮 **GPU:** [NVIDIA RTX 3060](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060/)
- <br>
-🧠 **RAM:** 32GB DDR4  
-💾 **Storage:** 512GB SSD + 2TB HDD  
-🖥 **OS:** Windows 11 / Ubuntu 22.04  
-🔧 **Other:** EMU8086 Installed, Multisim Installed  
+me = MadavasaranM()
+me.say_hi()
+```
 
-- 📫 How to reach me **madavasaran@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **Python is not named after the snake—it’s named after the comedy group "Monty Python"! 🐍😂**
+### 🎯 **Passionate about building innovative solutions at the intersection of Electronics, AI, and Software Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/madavasaran-m-842343301" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/madavasaranm" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/madav_saran01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madavasaran&show_icons=true&locale=en&layout=compact" alt="madavasaran" /></p>
+## 💼 Professional Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madavasaran&show_icons=true&locale=en" alt="madavasaran" /></p>
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 **Summer Intern**
+**Indian Institute of Science, Bengaluru**  
+*Department of Computational and Data Science*  
+📅 **June 2025 - July 2025**
+
+- 🧠 Deep Learning & Diffusion Models Research
+- 🎯 Hands-on AI/ML project development
+- 👨‍🏫 Mentored by IISc professors
+
+</td>
+<td width="50%">
+
+### ⚡ **Engineering Intern**
+**Vignesh Electric, SIPCOT Chennai**  
+*Electronics Design & Safety Systems*  
+📅 **April 2024 - May 2024**
+
+- 🚨 Designed fail-safe alarm systems
+- 🔧 Enhanced machine safety & reliability
+- 💡 Industrial electronics applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### 🏛️ **Puducherry Technological University**
+**Bachelor of Technology - Electronics & Communication Engineering**  
+📅 **October 2022 - Present** | 🎯 **CGPA: 9.67/10**
+
+### 🏫 **St. Patrick Higher Secondary School**
+📅 **July 2013 - March 2022**  
+🏆 **Class 12: 97.5%** | 🏆 **Class 10: 93.8%**
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🌐 **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🤖 **AI/ML & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🔧 **Hardware & Embedded**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 **Achievement** | 🏛️ **Institution** | 📅 **Year** |
+|:---|:---|:---:|
+| 🥇 **DRONE FUSION Hackathon** - Top 15 | Siddhartha Deemed University | 2025 |
+| 🚀 **NSSC Space Science Quiz** | IIT Kharagpur | 2024 |
+| 🌲 **Forests Management Certification** - 95/100 | IIT Kanpur | 2025 |
+| 🩸 **Blood Donation Volunteer** (3 Years) | JIPMER, Puducherry | 2022-2024 |
+| 🏆 **Srinivasa Ramanujan Award** - 97% Math | Ramanujan Academy | 2020 |
+| 🎪 **Event Coordinator** - JIGYASA 25 | PTU National Symposium | 2025 |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 **Highlighted Projects**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚦 **Traffic Prediction Web App**
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+- 🤖 Random Forest Regression algorithm
+- 📱 Responsive Bootstrap UI
+- ⏰ Hourly traffic forecasting
+- 🔄 Real-time predictions
+
+</td>
+<td width="50%">
+
+#### 🔒 **Secure Chat Application**
+![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=security&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+- 🔐 Caesar encryption implementation
+- 📁 File sharing capabilities
+- 📊 Network metrics monitoring
+- ⚡ Real-time communication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚁 **Autonomous Drone Navigation**
+![Embedded](https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+- 🛰️ GPS navigation with Dijkstra's algorithm
+- 🎯 Real-time obstacle avoidance
+- 🔧 Pixhawk + Raspberry Pi 5
+- 🧭 Autonomous path planning
+
+</td>
+<td width="50%">
+
+#### 👋 **Hand Sign Detection**
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+- 🎯 Custom dataset training
+- 📹 Real-time gesture recognition
+- 🔍 OpenCV integration
+- 🧠 Deep learning classification
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚨 **Motion Detector Alarm**
+![Electronics](https://img.shields.io/badge/Electronics-FF6B6B?style=flat-square&logo=electronics&logoColor=white)
+![IC555](https://img.shields.io/badge/IC%20555-4ECDC4?style=flat-square&logo=electronics&logoColor=white)
+
+- ⚡ 555 Timer IC (Monostable mode)
+- 📡 IR sensor integration
+- 🔊 Audio-visual alerts
+- 🛡️ Security applications
+
+</td>
+<td width="50%">
+
+#### 🖼️ **Image Classifier Web App**
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![VGG19](https://img.shields.io/badge/VGG19-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+- 🧠 VGG19 CNN architecture
+- 📤 Image upload functionality
+- ⚡ Dynamic result display
+- 🎨 Modern UI design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|:---|:---:|
+| 🇬🇧 **English** | ████████████ 100% |
+| 🇮🇳 **Tamil** | ████████████ 100% |
+| 🇮🇳 **Hindi** | ██████████░░ 85% |
+| 🇮🇳 **Telugu** | ████████░░░░ 70% |
+| 🇫🇷 **French** | ██████░░░░░░ 50% |
+
+</div>
+
+---
+
+## 🎮 Personal Interests
+
+<div align="center">
+
+### 🖥️ **PC Building Enthusiast**
+*Built my own gaming rig optimized for AI workloads*
+
+**🔧 My Build:**
+- 🎮 **GPU:** RTX 3060
+- 🧠 **CPU:** AMD Ryzen 5 5600X  
+- 💾 **RAM:** 16GB DDR4
+- ⚡ **Optimized for:** Gaming & AI/ML Training
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madavasaran&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madavasaran&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Madavasaran&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💬 **"Innovation distinguishes between a leader and a follower." - Steve Jobs**
+
+**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madavasaran-m-842343301)
+[![Email](https://img.shields.io/badge/Email-madavasaran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madavasaran@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madavasaran)
+
+**📱 Phone:** +91 9363561378  
+**🏠 Location:** Puducherry, India  
+**🎂 DOB:** August 1, 2004
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Madavasaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**⭐ Star my repositories if you find them interesting!**
+
+</div>
