@@ -16,27 +16,53 @@
 
 ## 🚀 About Me
 
-```python
-class MadavasaranM:
-    def __init__(self):
-        self.name = "Madavasaran M"
-        self.role = "Final Year ECE Student"
-        self.university = "Puducherry Technological University"
-        self.cgpa = 9.67
-        self.location = "Puducherry, India"
-        self.interests = ["VLSI", "Embedded Systems", "AI/ML", "Web Development"]
-        self.current_focus = "Deep Learning & Diffusion Models"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+<div align="center">
 
-me = MadavasaranM()
-me.say_hi()
-```
+### 👨‍🎓 **Electronics & Communication Engineering Student**
+**Puducherry Technological University** | **CGPA: 9.67/10**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 **Current Focus**
+- 🧠 **Deep Learning & Diffusion Models** research at IISc Bengaluru
+- 🚁 **Autonomous Systems** development with drones
+- 🔬 **VLSI Design** and embedded systems
+- 🌐 **Full-Stack Web Development** with AI integration
+
+#### 💡 **Core Interests**
+- 🔌 **Electronics & Circuit Design**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 💻 **Embedded Systems Programming**
+- 🌐 **Web Application Development**
+
+</td>
+<td width="50%">
+
+#### 🏆 **Key Strengths**
+- 📊 **Analytical Thinking** & Problem Solving
+- 🔧 **Hardware-Software Integration**
+- 👥 **Leadership & Team Collaboration**
+- 🚀 **Innovation & Creative Solutions**
+
+#### 🎮 **Personal Passion**
+- 🖥️ **PC Building Enthusiast** - Built custom gaming rig
+- 🩸 **Community Service** - 3 years blood donation volunteer
+- 🏅 **Competitive Programming** & hackathons
+- 🌍 **Multilingual** - Fluent in 5 languages
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🎯 **Passionate about building innovative solutions at the intersection of Electronics, AI, and Software Development**
+### 🎯 **"Passionate about building innovative solutions at the intersection of Electronics, AI, and Software Development"**
+
+💫 *Currently exploring the fascinating world of Diffusion Models while developing practical AI applications*
 
 </div>
 
