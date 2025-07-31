@@ -19,7 +19,7 @@
 <div align="center">
 
 ### 👨‍🎓 **Electronics & Communication Engineering Student**
-**Puducherry Technological University** | **CGPA: 9.67/10**
+**Puducherry Technological University** | **CGPA: 9.67**
 
 </div>
 
